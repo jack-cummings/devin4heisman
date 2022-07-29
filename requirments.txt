@@ -1,4 +1,4 @@
-re
-json
-os
-fastapi
+fastapi==0.74.1
+uvicorn==0.17.5
+gunicorn==20.1.0
+jinja2==3.0.3
